@@ -1,7 +1,7 @@
 ![flappy bird image](https://github.com/user-attachments/assets/840803cd-4188-4ddb-8e55-ce85de126027)
-# Flappy Bird Game
+# SkyBound Bird Game
 
-This is a web-based implementation of the classic Flappy Bird game. The project is built using HTML, CSS, and JavaScript, and provides an interactive, fun, and challenging experience for users.
+This is a web-based implementation of the classic Bird game. The project is built using HTML, CSS, and JavaScript, and provides an interactive, fun, and challenging experience for users.
 
 Players control a bird and try to navigate through pipes without colliding, while scoring points by successfully passing through the gaps.
 
